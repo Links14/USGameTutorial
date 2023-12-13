@@ -5,7 +5,20 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
-				"D:/UnrealProjects/MySCproject/USGameTutorial/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset"
+				"D:/UnrealProjects/USGameTutorial/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset",
+				"D:/UnrealProjects/USGameTutorial/Content/FirstPerson/Blueprints/BP_.uasset",
+				"D:/UnrealProjects/USGameTutorial/Content/FirstPerson/Blueprints/BP_Target.uasset",
+				"D:/UnrealProjects/USGameTutorial/Content/FirstPerson/Blueprints/GM_Base.uasset",
+				"D:/UnrealProjects/USGameTutorial/Content/FirstPerson/Blueprints/GM_HitTheTarget.uasset",
+				"D:/UnrealProjects/USGameTutorial/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/1/0I/XL4NCENT26TL57MDE4AQ3Y.uasset",
+				"D:/UnrealProjects/USGameTutorial/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/8/3V/WAC15EPBYIKKSJ015GW079.uasset",
+				"D:/UnrealProjects/USGameTutorial/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/1/4O/XDAJDU16TFB622XLF27U1J.uasset",
+				"D:/UnrealProjects/USGameTutorial/Content/FirstPerson/Blueprints/WBP_UI.uasset",
+				"D:/UnrealProjects/USGameTutorial/Content/FirstPerson/Maps/FirstPersonMap.umap",
+				"D:/UnrealProjects/USGameTutorial/Content/FirstPerson/Blueprints/WBP_EndScreen.uasset",
+				"D:/UnrealProjects/USGameTutorial/Content/FirstPerson/Textures/Simple-Crosshair.uasset",
+				"D:/UnrealProjects/USGameTutorial/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/B/YR/DMPQRTAXGAE677EVFY4NCA.uasset",
+				"D:/UnrealProjects/USGameTutorial/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/6/AJ/2XZ3RUK0LFB63FVNQE7P5R.uasset"
 			]
 		}
 	]
